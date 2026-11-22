@@ -17,6 +17,7 @@
 
 *A documented collection of laboratory experiments, practical implementations, and academic reports.*
 
+</div>
 
 ---
 
@@ -30,14 +31,6 @@
 | **University** | Rajshahi University of Engineering & Technology |
 | **Course Code** | CSE 3154 |
 | **Course Title** | Web Programming |
-
-## 👨‍🏫 Course Instructor
-
-**Md. Rakibul Islam**  
-Lecturer, Department of Electronics & Telecommunication Engineering  
-Rajshahi University of Engineering & Technology (RUET)
-
-🔗 [Instructor's Academic Profile](https://www.ete.ruet.ac.bd/rakibul18)
 
 ---
 
@@ -54,13 +47,15 @@ The repository is intended for course evaluation, academic documentation, and tr
 ## 🧪 Laboratory Experiments & Reports
 
 All completed laboratory reports are listed below. Click on an experiment name to download its corresponding PDF report.
-
+<div align="center">
 | Exp. No. | Experiment Name | Experiment Date | Submission Date |
 |:---:|---|:---:|:---:|
 | 01 | [Experiment 00 — Instructions](Lab-01/Lab_report-01.pdf) | 17-11-2026 | 24-11-2026 |
 
-
+</div>
 ---
+
+<div align="center">
 
 ### 💻 Learn by Building. Grow by Experimenting.
 
