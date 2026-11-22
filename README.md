@@ -50,7 +50,7 @@ All completed laboratory reports are listed below. Click on an experiment name t
 
 | Exp. No. | Experiment Name | Experiment Date | Submission Date |
 |:---:|---|:---:|:---:|
-| 00 | [Instructions](Lab-01/Lab_report-01.pdf) | 17-11-2026 | 24-11-2026 |
+| 01 | [Instructions](Lab-01/Lab_report-01.pdf) | 17-11-2026 | 24-11-2026 |
 
 
 ---
