@@ -1,5 +1,3 @@
-Here is the complete corrected `README.md`. The header and footer are centered, while all academic information, descriptions, and the experiment table remain naturally left-aligned.
-
 <div align="center">
 
 # 🌐 CSE 3154 — Web Programming
@@ -36,34 +34,25 @@ Here is the complete corrected `README.md`. The header and footer are centered, 
 
 ---
 
-## 👨‍🏫 Course Instructor
-
-**Md. Rakibul Islam**  
-Lecturer, Department of Electronics & Telecommunication Engineering  
-Rajshahi University of Engineering & Technology (RUET)
-
-🔗 [Instructor's Academic Profile](https://www.ete.ruet.ac.bd/rakibul18)
-
----
-
 ## 📖 About This Repository
 
 This repository contains my laboratory works and experiment reports for **CSE 3154 — Web Programming**.
 
-It serves as an organized academic record of the experiments performed throughout the course. Each experiment is documented with its corresponding laboratory report in PDF format.
+It is maintained as an academic record of the experiments performed throughout the course. Each experiment is documented with its corresponding laboratory report.
 
-The repository is maintained for academic evaluation, practical documentation, and tracking my learning progress throughout the course.
+The repository is intended for course evaluation, academic documentation, and tracking my practical learning progress.
 
 ---
 
 ## 🧪 Laboratory Experiments & Reports
 
 All completed laboratory reports are listed below. Click on an experiment name to download its corresponding PDF report.
-
+<div align="center">
 | Exp. No. | Experiment Name | Experiment Date | Submission Date |
 |:---:|---|:---:|:---:|
 | 01 | [Experiment 00 — Instructions](Lab-01/Lab_report-01.pdf) | 17-11-2026 | 24-11-2026 |
 
+</div>
 ---
 
 <div align="center">
@@ -77,7 +66,7 @@ All completed laboratory reports are listed below. Click on an experiment name t
 **Md. Sharear Islam Pranto**  
 Roll: 2304041  
 Department of ETE  
-Rajshahi University of Engineering & Technology
+RUET
 
 <br>
 
