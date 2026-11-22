@@ -17,7 +17,6 @@
 
 *A documented collection of laboratory experiments, practical implementations, and academic reports.*
 
-</div>
 
 ---
 
@@ -62,8 +61,6 @@ All completed laboratory reports are listed below. Click on an experiment name t
 
 
 ---
-
-<div align="center">
 
 ### 💻 Learn by Building. Grow by Experimenting.
 
