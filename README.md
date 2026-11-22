@@ -5,7 +5,7 @@
 ### Laboratory Works & Reports
 
 **Department of Electronics & Telecommunication Engineering**  
-**Rajshahi University of Engineering & Technology (RUET)**
+**Rajshahi University of Engineering & Technology**
 
 <br>
 
@@ -26,7 +26,7 @@
 | Particulars | Details |
 |:---|:---|
 | **Name** | Md. Sharear Islam Pranto |
-| **Student ID / Roll** | 2304041 |
+| **Roll** | 2304041 |
 | **Department** | Electronics & Telecommunication Engineering (ETE) |
 | **University** | Rajshahi University of Engineering & Technology |
 | **Course Code** | CSE 3154 |
@@ -46,7 +46,7 @@ Rajshahi University of Engineering & Technology (RUET)
 
 This repository contains my laboratory works and experiment reports for **CSE 3154 — Web Programming**.
 
-It is maintained as an academic record of the experiments performed throughout the course. Each experiment is documented with its corresponding laboratory report in PDF format.
+It is maintained as an academic record of the experiments performed throughout the course. Each experiment is documented with its corresponding laboratory report.
 
 The repository is intended for course evaluation, academic documentation, and tracking my practical learning progress.
 
@@ -58,46 +58,8 @@ All completed laboratory reports are listed below. Click on an experiment name t
 
 | Exp. No. | Experiment Name | Experiment Date | Submission Date |
 |:---:|---|:---:|:---:|
-| 01 | [Experiment 01 — Title](Lab-01/Lab_report-01.pdf) | DD-MM-YYYY | DD-MM-YYYY |
-| 02 | [Experiment 02 — Title](Lab-02/Lab_report-02.pdf) | DD-MM-YYYY | DD-MM-YYYY |
-| 03 | [Experiment 03 — Title](Lab-03/Lab_report-03.pdf) | DD-MM-YYYY | DD-MM-YYYY |
-| 04 | [Experiment 04 — Title](Lab-04/Lab_report-04.pdf) | DD-MM-YYYY | DD-MM-YYYY |
-| 05 | [Experiment 05 — Title](Lab-05/Lab_report-05.pdf) | DD-MM-YYYY | DD-MM-YYYY |
-| 06 | [Experiment 06 — Title](Lab-06/Lab_report-06.pdf) | DD-MM-YYYY | DD-MM-YYYY |
+| 01 | [Experiment 00 — Instructions](Lab-01/Lab_report-01.pdf) | 17-11-2026 | 24-11-2026 |
 
-> **Note:** Submission dates represent the original upload dates of the reports, not the dates of subsequent modifications or updates.
-
----
-
-## 📂 Repository Structure
-
-The repository follows a consistent folder and file naming convention for easy navigation.
-
-```text
-CSE-3154-Web-Programming/
-│
-├── README.md
-│
-├── Lab-01/
-│   └── Lab_report-01.pdf
-│
-├── Lab-02/
-│   └── Lab_report-02.pdf
-│
-├── Lab-03/
-│   └── Lab_report-03.pdf
-│
-├── Lab-04/
-│   └── Lab_report-04.pdf
-│
-└── ...
-```
-
-### File Naming Convention
-
-- **Experiment Folder:** `Lab-XX`
-- **Report Filename:** `Lab_report-XX.pdf`
-- **Report Format:** PDF
 
 ---
 
